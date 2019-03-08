@@ -23,4 +23,5 @@ body {
 .container > h3 {
   color: white;
   letter-spacing: .05rem;
+  text-align: center;
 }
