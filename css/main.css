@@ -20,7 +20,7 @@ body {
   max-width: 25%;
 }
 
-.container > h2 {
+.container > h3 {
   color: white;
   letter-spacing: .05rem;
 }
