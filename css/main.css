@@ -13,6 +13,9 @@ body {
   width: 100vw;
   height: 100vh;
   flex-flow: column;
+  color: white;
+  letter-spacing: .05rem;
+  text-align: center;
 }
 
 .container > img {
@@ -20,8 +23,6 @@ body {
   max-width: 25%;
 }
 
-.container > h3 {
+.container > a {
   color: white;
-  letter-spacing: .05rem;
-  text-align: center;
 }
